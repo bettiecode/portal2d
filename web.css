@@ -1,0 +1,16 @@
+body
+{
+    background: rgb(0, 0, 0);
+    color:white;
+    margin:64;
+}
+div
+{
+    margin: auto;
+    width: fit-content;
+}
+canvas
+{
+    border: solid 0px darkcyan;
+}
+
